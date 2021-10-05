@@ -1,0 +1,23 @@
+{
+  "name": "teamgenerator",
+  "version": "1.0.0",
+  "description": "App to create a team profile webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbow22/teamGenerator.git"
+  },
+  "author": "mdbow22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbow22/teamGenerator/issues"
+  },
+  "homepage": "https://github.com/mdbow22/teamGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5",
+    "jest": "^27.2.4"
+  }
+}
